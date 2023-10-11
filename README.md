@@ -25,6 +25,6 @@ Implement a chatbot application for educational purposes using the Furhat robot.
 3. Test the skill using the web interface.
 
 ## Video Material
-
+[Furhat]([https://furhatrobotics.com/requestsdk/](https://drive.google.com/drive/folders/1r-BUEjpoQOLXLyVcaqQ0M5cbFbxItRkT?usp=sharing)https://drive.google.com/drive/folders/1r-BUEjpoQOLXLyVcaqQ0M5cbFbxItRkT?usp=sharing).
 
 
